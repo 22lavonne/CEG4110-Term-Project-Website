@@ -1,4 +1,5 @@
 # README: CEG4110 Term Project Website
+#### Project completed by: Khiem Do, Anuja Alluri, and Emily Miller
 
 ## Project Overview:
 * GrumpyChef is an application that allows users to inventory the ingredients in their home, create and share recipes, and generate shopping carts.
