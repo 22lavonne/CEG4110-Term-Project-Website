@@ -1,4 +1,4 @@
-# CEG4110 Term Project Website
+# README: CEG4110 Term Project Website
 
 ## Project Overview:
 * GrumpyChef is an application that allows users to inventory the ingredients in their home, create and share recipes, and generate shopping carts.
