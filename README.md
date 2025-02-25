@@ -10,6 +10,6 @@
 
 #### [Software Requirements Specification Document](https://raidermailwright-my.sharepoint.com/:w:/g/personal/miller_1771_wright_edu/ES5C9N_XW-tIsY5eEA3fETgBJjXptnDmNxa7os6FmjsQxw?e=FQboWz)
 
-#### [Software Design Document](https://raidermailwright-my.sharepoint.com/:w:/g/personal/miller_1771_wright_edu/ES5C9N_XW-tIsY5eEA3fETgBJjXptnDmNxa7os6FmjsQxw?e=j7hDU1)
+#### Software Design Document
 
 #### [Software Test Plan](https://raidermailwright-my.sharepoint.com/:x:/g/personal/miller_1771_wright_edu/Ee1Rf4EbbZxOtxuaj-MLQKQBsB7G4BdMB5reG_Vsw8xpRQ?e=AabcdY)
